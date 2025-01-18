@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/jeffjiang13/tiktok">
+  <a href="https://github.com/crazysoftdev/tiktok">
     <img src="utils/TikTok_logo.webp" alt="TikTok Logo" width="300" height="100" />
   </a>
 </div>
@@ -49,7 +49,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/jeffjiang13/tiktok.git
+   git clone https://github.com/crazysoftdev/tiktok.git
    ```
 2. Install NPM packages
    ```sh
@@ -80,6 +80,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Name - [@twitter](https://twitter.com/jeffjiang9) - jeff.jiang13@gmail.com
+Email: [soul.lee.pro@gmail.com](mailto:soul.lee.pro@gmail.com)
 
-Project Link: [https://github.com/jeffjiang13/tiktok](https://github.com/jeffjiang13/tiktok)
+Project Link: [https://github.com/crazysoftdev/tiktok](https://github.com/crazysoftdev/tiktok)
